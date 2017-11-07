@@ -1,0 +1,4 @@
+﻿  RetrieveData.cpp
+c:\users\nicholas h.m. jones\documents\visual studio 2015\projects\retrievedata\retrievedata\retrievedata.cpp(275): warning C4101: 'rows': unreferenced local variable
+c:\users\nicholas h.m. jones\documents\visual studio 2015\projects\retrievedata\retrievedata\retrievedata.cpp(275): warning C4101: 'columns': unreferenced local variable
+c:\users\nicholas h.m. jones\documents\visual studio 2015\projects\retrievedata\retrievedata\retrievedata.cpp(331): error C4716: 'DoesTableExist': must return a value
